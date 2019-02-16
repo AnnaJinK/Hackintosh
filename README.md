@@ -22,5 +22,5 @@ You can modify it with your SMBIOS.
 #### 2019-02-16 Fri
 Temperature, fan speed kext added
 
-If your system has **Optane memory** installed and you do not want to remove it, just add **nvme = -1** to Boot arㅎ.  
+If your system has **Optane memory** installed and you do not want to remove it, just add **nvme = -1** to Boot arg.  
 But, this option also disables other nvme devices.
