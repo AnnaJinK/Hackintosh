@@ -18,6 +18,8 @@ You can modify it with your SMBIOS.
  **SSD** : Crucial M550 128GB  
  **HDD** : Seagate 2TB, Toshiba 500GB 
 
+
+## Update
 #### 2019-02-10 Sun
 If you are using a DVI-D (dual-link) cable and want to use QHD resolution or higher with the Clover GUI, disable CSM in your motherboard BIOS settings.
 
