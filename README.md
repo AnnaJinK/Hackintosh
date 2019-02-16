@@ -29,5 +29,7 @@ If you do not use the legacy boot process, you can disable it and use only the U
 
 ### 2019-02-16 Fri
 Temperature, fan speed kext added  
+#### Optane memory
+macOS does not support Optane memory.  
 If your system has **Optane memory** installed and you do not want to remove it, just add **nvme = -1** to Boot arg.  
 But, this option also disables other nvme devices.
