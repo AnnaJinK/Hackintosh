@@ -36,4 +36,4 @@ But, this option also disables other nvme devices.
 
 
 # Credits
-Changes were made by Heejoong Kim (2019) 
+Changes were made by Heejoong Kim (in 2019) 
