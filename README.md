@@ -1,8 +1,10 @@
 # Hackintosh
- 이 EFI 는 아래의 시스템 구동에 적합하도록 제작되었다. 
- 
+This EFI setting is for the following systems:
 	
- 주 모니터 해상도 2560x1440 
+ Main Monitor resolution : 2560x1440 (75Hz)
+ Clover GUI resolution : 2560x1440
+ Theme : Alita
+ DVI-D cable used
 	
  OS : High Sierra 10.13.6 (17G65) 
 	
@@ -21,3 +23,7 @@
  SSD : Crucial M550 128GB 
 	
  HDD : Seagate 2TB, Toshiba 500GB
+
+
+# 2019-02-16 fri
+Temperature, fan speed kext added
