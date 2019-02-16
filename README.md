@@ -20,7 +20,7 @@ You can modify it with your SMBIOS.
    
   
 
-## Update
+# Update
 ### 2019-02-10 Sun
 If you are using a DVI-D (dual-link) cable and want to use QHD resolution or higher with the Clover GUI, disable CSM in your motherboard BIOS settings. 
 #### What is the CSM?
@@ -33,3 +33,7 @@ Temperature, fan speed kext added
 macOS does not support Optane memory.  
 If your system has **Optane memory** installed and you do not want to remove it, just add **nvme = -1** to Boot arg.  
 But, this option also disables other nvme devices.
+
+
+# Credits
+Changes were made by Heejoong Kim (2019) 
