@@ -17,10 +17,8 @@ You can modify it with your SMBIOS.
  **NVME** : Colorful 240GB  
  **SSD** : Crucial M550 128GB  
  **HDD** : Seagate 2TB, Toshiba 500GB 
- 
- 
    
-
+  
 
 ## Update
 #### 2019-02-10 Sun
