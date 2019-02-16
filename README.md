@@ -29,4 +29,5 @@ This EFI setting is for the following systems:
 Temperature, fan speed kext added
 
 If your system has **Optane memory** installed and you do not want to remove it, add **nvme = -1** to Boot arg.
+
 But, this option also disables other nvme devices.
