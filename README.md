@@ -5,8 +5,9 @@ This EFI setting is for the following systems:
  Clover GUI resolution : 2560x1440  
  Theme : Alita  
  DVI-D cable used  
-	
+
  **OS** : High Sierra 10.13.6 (17G65)  
+ ***Monitor*** : Viewsys QHD(75Hz), BenQ FHD(60Hz)  
  **CPU** : Intel i7-8700 3.2Ghz (6C/12T)  
  **M/B** : B360M AORUS GAMING 3  
  **GPU** : GTX960 2GB  
