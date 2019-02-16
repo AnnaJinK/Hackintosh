@@ -1,5 +1,6 @@
 # Hackintosh
-This EFI setting is for the following systems:
+This EFI setting is for the following systems  
+You can modify it with your SMBIOS.
 	
  Main Monitor resolution : 2560x1440 (75Hz)  
  Clover GUI resolution : 2560x1440  
