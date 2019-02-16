@@ -14,7 +14,7 @@ This EFI setting is for the following systems:
 	
  GPU : GTX960 2GB 
 	
- CNVi : AC-9560 (WiFi not working but B/T is good) 
+ CNVi : AC-9560 (wifi does not work but b/t is work.) 
 	
  RAM : 16 GB 
 	
