@@ -22,7 +22,8 @@ You can modify it with your SMBIOS.
 
 ## Update
 #### 2019-02-10 Sun
-If you are using a DVI-D (dual-link) cable and want to use QHD resolution or higher with the Clover GUI, disable CSM in your motherboard BIOS settings.  
+If you are using a DVI-D (dual-link) cable and want to use QHD resolution or higher with the Clover GUI, disable CSM in your motherboard BIOS settings. 
+##### What is the CSM?
 The CSM is a component of the UEFI firmware that provides legacy BIOS compatibility by emulating a BIOS environment.  
 If you do not use the legacy boot process, you can disable it and use only the UEFI BIOS boot process.
 
