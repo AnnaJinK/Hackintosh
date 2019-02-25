@@ -12,7 +12,7 @@ You can modify it with your SMBIOS.
  **CPU** : Intel i7-8700 3.2Ghz (6C/12T)  
  **M/B** : B360M AORUS GAMING 3  
  **GPU** : GTX960 2GB  
- **CNVi** : AC-9560 (wifi does not work but b/t is work.)  
+ **CNVi** : AC-9560 (not working)  
  **RAM** : 16 GB  
  **NVME** : Colorful 240GB  
  **SSD** : Crucial M550 128GB  
